@@ -9,8 +9,11 @@
 
 
 <br />
+<br />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucastssb&theme=onedark&margin-w=15&margin-h=15&column=7" alt="lucastssb" /></a> </p>
+
+### Contact me 
 
 <div>
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=lucastssb&count_private=true&include_all_commits=true&theme=onedark" alt="lucastssb" />
@@ -19,8 +22,8 @@
 
 <br/>
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-alfreddagenais.vercel.app/api/spotify-playing" alt="Lucas Barbosa Spotify Playing" width="350" />](https://open.spotify.com/user/lucastssb?si=6419e54fcb8246b1)
+[![Linkedin](https://img.shields.io/badge/-lucastssb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-barbosa-60b56416b/)](https://www.linkedin.com/in/lucas-barbosa-60b56416b/) 
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TheLastLucass)](https://twitter.com/TheLastLucass)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucastssb&label=Profile%20views&color=0e75b6&style=flat" alt="lucastssb" /> </p>
 
