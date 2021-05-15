@@ -24,9 +24,9 @@
 <br />
 <br />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucastssb&theme=onedark&margin-w=15&margin-h=15&column=7" alt="lucastssb" /></a> </p>
-
 ### Stats 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucastssb&theme=onedark&margin-w=15&margin-h=15&column=7" alt="lucastssb" /></a> </p>
 
 <div>
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=lucastssb&count_private=true&include_all_commits=true&theme=onedark" alt="lucastssb" />
