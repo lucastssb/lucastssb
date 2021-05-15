@@ -23,3 +23,6 @@
 [<img src="https://now-playing-alfreddagenais.vercel.app/api/spotify-playing" alt="Lucas Barbosa Spotify Playing" width="350" />](https://open.spotify.com/user/lucastssb?si=6419e54fcb8246b1)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucastssb&label=Profile%20views&color=0e75b6&style=flat" alt="lucastssb" /> </p>
+
+
+[website]: http://site.lucastssb.vercel.app/
