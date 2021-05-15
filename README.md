@@ -1,13 +1,12 @@
-<h1 align="center">Hi, I'm Lucas Barbosa</h1>
+### Hi there, I'm [Lucas][website] 👋 
 
-<br >
-
-<h3 align="center"> A computer science student who loves technology at all. I also love games and building things with Arduino.</h3><img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+## I'm a full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 - 👨🏻‍💻 Developer passionate about technology at all
 - 🌱 I’m currently learning everything 🤣
 - 💡 I love innovation and new technologies
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
+
 
 <br />
 
