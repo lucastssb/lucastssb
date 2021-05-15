@@ -17,10 +17,10 @@
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/> </a>
-<a href="https://dart.dev/" target="_blank"> <img align="left" alt="C" width="32px" src="https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg"/> </a>
+<a href="https://dart.dev/" target="_blank"> <img align="left" alt="C" width="40px" src="https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg"/> </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> <img align="left" alt="C++" width="26px" src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png"/> </a>
-<a href="https://golang.org/" target="_blank"> <img align="left" alt="git" width="32px" src="https://golang.org/lib/godoc/images/go-logo-blue.svg"/> </a>
+<a href="https://golang.org/" target="_blank"> <img align="left" alt="git" width="40px" src="https://golang.org/lib/godoc/images/go-logo-blue.svg"/> </a>
 <br />
 <br />
 
