@@ -36,7 +36,7 @@
 <br/>
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-web-mu.vercel.app/api/spotify-playing" alt="Alfred Dagenais Spotify Playing" width="350" />](https://open.spotify.com/user/d25178924feab74575d6006d330f)
+[<img src="https://spotify-web-mu.vercel.app/api/spotify-playing" alt="Lucas Spotify Playing" width="350" />](https://open.spotify.com/user/d25178924feab74575d6006d330f)
 
 <br/>
 
