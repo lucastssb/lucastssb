@@ -21,8 +21,8 @@
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> <img align="left" alt="C++" width="26px" src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png"/> </a>
 <a href="https://golang.org/" target="_blank"> <img align="left" alt="git" width="40px" src="https://golang.org/lib/godoc/images/go-logo-blue.svg"/> </a>
-<br />
-<br />
+<br/>
+<br/>
 
 ### Stats 
 
@@ -32,6 +32,11 @@
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=lucastssb&count_private=true&include_all_commits=true&theme=onedark" alt="lucastssb" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastssb&layout=compact&theme=onedark&langs_count=15" />
 </div>
+
+<br/>
+
+### Spotify Playing 🎧
+[<img src="https://spotify-web-mu.vercel.app/api/spotify-playing" alt="Alfred Dagenais Spotify Playing" width="350" />](https://open.spotify.com/user/d25178924feab74575d6006d330f)
 
 <br/>
 
