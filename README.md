@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucastssb&theme=onedark&margin-w=15&margin-h=15&column=7" alt="lucastssb" /></a> </p>
 
-### Contact me 
+### Stats 
 
 <div>
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=lucastssb&count_private=true&include_all_commits=true&theme=onedark" alt="lucastssb" />
@@ -21,6 +21,8 @@
 </div>
 
 <br/>
+
+### Contact me
 
 [![Linkedin](https://img.shields.io/badge/-lucastssb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-barbosa-60b56416b/)](https://www.linkedin.com/in/lucas-barbosa-60b56416b/) 
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TheLastLucass)](https://twitter.com/TheLastLucass)
