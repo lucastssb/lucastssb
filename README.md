@@ -27,6 +27,9 @@
 [![Linkedin](https://img.shields.io/badge/-lucastssb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-barbosa-60b56416b/)](https://www.linkedin.com/in/lucas-barbosa-60b56416b/) 
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TheLastLucass)](https://twitter.com/TheLastLucass)
 
+<br/>
+<br/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucastssb&label=Profile%20views&color=0e75b6&style=flat" alt="lucastssb" /> </p>
 
 
