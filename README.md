@@ -1,6 +1,6 @@
 ### Hi there, I'm [Lucas][website] 👋 
 
-## I'm a full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+## A full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 - 👨🏻‍💻 Developer passionate about technology at all
 - 🌱 I’m currently learning everything 🤣
 - 💡 I love innovation and new technologies
