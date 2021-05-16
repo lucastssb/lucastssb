@@ -35,11 +35,6 @@
 
 <br/>
 
-### Spotify Playing 🎧
-[<img src="https://spotify-now-playing-bay-one.vercel.app/api/spotify-playing" alt="Lucas Spotify Playing" width="350" />](https://open.spotify.com/user/d25178924feab74575d6006d330f)
-
-<br/>
-
 ### Contact me
 
 [![Linkedin](https://img.shields.io/badge/-lucastssb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-barbosa-60b56416b/)](https://www.linkedin.com/in/lucas-barbosa-60b56416b/) 
