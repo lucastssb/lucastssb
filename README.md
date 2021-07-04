@@ -4,7 +4,6 @@
 - 👨🏻‍💻 Developer passionate about technology at all
 - 🌱 I’m currently learning everything 🤣
 - 💡 I love innovation and new technologies
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 
